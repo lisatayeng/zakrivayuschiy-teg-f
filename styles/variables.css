@@ -34,4 +34,6 @@
     --animation-color: #FF0000;
     --bg-color: #fff;
     --button-text-color: var(--bg-color);
+    --heart-color: #ff6b9d;
+    --heart-hover: #ff3366;
 }
